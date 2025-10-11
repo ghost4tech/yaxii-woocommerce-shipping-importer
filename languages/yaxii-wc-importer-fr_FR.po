@@ -1,0 +1,307 @@
+# Copyright (C) 2024 Yaxii WooCommerce Shipping Importer
+# This file is distributed under the same license as the Yaxii WooCommerce Shipping Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yaxii WooCommerce Shipping Importer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://yaxii.com/support\n"
+"POT-Creation-Date: 2024-10-11 00:00:00+00:00\n"
+"PO-Revision-Date: 2025-10-11 17:48+0100\n"
+"Last-Translator: Yaxii Team <support@yaxii.com>\n"
+"Language-Team: French <support@yaxii.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "WooCommerce to Yaxii Importer"
+msgstr "Importateur WooCommerce vers Yaxii"
+
+msgid "WC Importer"
+msgstr "Importateur WC"
+
+msgid "Migrate WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and free for Yaxii Smart Form license holders."
+msgstr "Migrez les zones et les coûts d'expédition WooCommerce vers le gestionnaire d'expédition Yaxii Smart Form. Simple, rapide et gratuit pour les détenteurs de licence Yaxii Smart Form."
+
+msgid "WordPress 5.8 or higher is required. You are running version %s."
+msgstr "WordPress 5.8 ou supérieur est requis. Vous utilisez la version %s."
+
+msgid "PHP 7.4 or higher is required. You are running version %s."
+msgstr "PHP 7.4 ou supérieur est requis. Vous utilisez la version %s."
+
+msgid "WooCommerce plugin is required. Please install and activate WooCommerce."
+msgstr "Le plugin WooCommerce est requis. Veuillez installer et activer WooCommerce."
+
+msgid "WooCommerce 5.0 or higher is required. You are running version %s."
+msgstr "WooCommerce 5.0 ou supérieur est requis. Vous utilisez la version %s."
+
+msgid "Yaxii Smart Form plugin is required. Please install and activate Yaxii Smart Form."
+msgstr "Le plugin Yaxii Smart Form est requis. Veuillez installer et activer Yaxii Smart Form."
+
+msgid "Yaxii Smart Form Shipping Manager is not available. Please update Yaxii Smart Form to the latest version."
+msgstr "Le gestionnaire d'expédition Yaxii Smart Form n'est pas disponible. Veuillez mettre à jour Yaxii Smart Form vers la dernière version."
+
+msgid "Yaxii Smart Form license validation function not found."
+msgstr "Fonction de validation de licence Yaxii Smart Form introuvable."
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license."
+msgstr "Une licence Yaxii Smart Form valide est requise pour utiliser cet importateur. Veuillez activer votre licence."
+
+msgid "Security check failed"
+msgstr "Échec de la vérification de sécurité"
+
+msgid "Insufficient permissions"
+msgstr "Permissions insuffisantes"
+
+msgid "Migration Wizard"
+msgstr "Assistant de migration"
+
+msgid "Import your WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and safe."
+msgstr "Importez vos zones et coûts d'expédition WooCommerce dans le gestionnaire d'expédition Yaxii Smart Form. Simple, rapide et sûr."
+
+msgid "Scan"
+msgstr "Scanner"
+
+msgid "Map Methods"
+msgstr "Mapper les méthodes"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Complete"
+msgstr "Terminer"
+
+msgid "Step 1: Scan WooCommerce Data"
+msgstr "Étape 1 : Scanner les données WooCommerce"
+
+msgid "Click the button below to scan your WooCommerce shipping zones and methods."
+msgstr "Cliquez sur le bouton ci-dessous pour scanner vos zones et méthodes d'expédition WooCommerce."
+
+msgid "Scan WooCommerce Data"
+msgstr "Scanner les données WooCommerce"
+
+msgid "Zones Found"
+msgstr "Zones trouvées"
+
+msgid "Shipping Methods"
+msgstr "Méthodes d'expédition"
+
+msgid "States Covered"
+msgstr "États couverts"
+
+msgid "Continue to Method Mapping"
+msgstr "Continuer vers le mappage des méthodes"
+
+msgid "Step 2: Map Shipping Methods"
+msgstr "Étape 2 : Mapper les méthodes d'expédition"
+
+msgid "Map your WooCommerce shipping methods to Yaxii Smart Form methods."
+msgstr "Mappez vos méthodes d'expédition WooCommerce aux méthodes Yaxii Smart Form."
+
+msgid "Method Mapping"
+msgstr "Mappage des méthodes"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Continue to Import"
+msgstr "Continuer vers l'importation"
+
+msgid "Step 3: Import Settings"
+msgstr "Étape 3 : Paramètres d'importation"
+
+msgid "Choose how to handle existing Yaxii shipping costs."
+msgstr "Choisissez comment gérer les coûts d'expédition Yaxii existants."
+
+msgid "Conflict Resolution Strategy:"
+msgstr "Stratégie de résolution des conflits :"
+
+msgid "Overwrite"
+msgstr "Écraser"
+
+msgid "Replace all existing prices with WooCommerce data"
+msgstr "Remplacer tous les prix existants par les données WooCommerce"
+
+msgid "Skip Existing"
+msgstr "Ignorer l'existant"
+
+msgid "Only import states that don't have prices yet"
+msgstr "Importer uniquement les états qui n'ont pas encore de prix"
+
+msgid "Keep Lower Prices"
+msgstr "Conserver les prix les plus bas"
+
+msgid "Use the lower price between existing and WooCommerce"
+msgstr "Utiliser le prix le plus bas entre l'existant et WooCommerce"
+
+msgid "Keep Higher Prices"
+msgstr "Conserver les prix les plus élevés"
+
+msgid "Use the higher price between existing and WooCommerce"
+msgstr "Utiliser le prix le plus élevé entre l'existant et WooCommerce"
+
+msgid "Create Backup Before Import"
+msgstr "Créer une sauvegarde avant l'importation"
+
+msgid "Recommended: Create a backup that you can restore if needed"
+msgstr "Recommandé : Créer une sauvegarde que vous pourrez restaurer si nécessaire"
+
+msgid "Important:"
+msgstr "Important :"
+
+msgid "This will modify your Yaxii Smart Form shipping costs. A backup will be created automatically."
+msgstr "Cela modifiera vos coûts d'expédition Yaxii Smart Form. Une sauvegarde sera créée automatiquement."
+
+msgid "Start Import"
+msgstr "Démarrer l'importation"
+
+msgid "Import Completed Successfully!"
+msgstr "Importation terminée avec succès !"
+
+msgid "Go to Yaxii Shipping Manager"
+msgstr "Aller au gestionnaire d'expédition Yaxii"
+
+msgid "Import Again"
+msgstr "Importer à nouveau"
+
+msgid "Export to CSV"
+msgstr "Exporter en CSV"
+
+msgid "Processing..."
+msgstr "Traitement en cours..."
+
+msgid "Backup Manager"
+msgstr "Gestionnaire de sauvegardes"
+
+msgid "Manage your Yaxii shipping data backups."
+msgstr "Gérez vos sauvegardes de données d'expédition Yaxii."
+
+msgid "Create Backup Now"
+msgstr "Créer une sauvegarde maintenant"
+
+msgid "Refresh List"
+msgstr "Actualiser la liste"
+
+msgid "Click refresh to load backups list."
+msgstr "Cliquez sur actualiser pour charger la liste des sauvegardes."
+
+msgid "Scanning WooCommerce data..."
+msgstr "Analyse des données WooCommerce..."
+
+msgid "Importing data..."
+msgstr "Importation des données..."
+
+msgid "Success!"
+msgstr "Succès !"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Are you sure you want to import? This will modify your Yaxii shipping costs."
+msgstr "Êtes-vous sûr de vouloir importer ? Cela modifiera vos coûts d'expédition Yaxii."
+
+msgid "Are you sure you want to restore from backup?"
+msgstr "Êtes-vous sûr de vouloir restaurer depuis la sauvegarde ?"
+
+msgid "Home Delivery - التوصيل للمنزل"
+msgstr "Livraison à domicile"
+
+msgid "Office Delivery - التوصيل للمكتب"
+msgstr "Livraison au bureau"
+
+msgid "Invalid data format"
+msgstr "Format de données invalide"
+
+msgid "Failed to import data"
+msgstr "Échec de l'importation des données"
+
+msgid "Invalid state data for: %s"
+msgstr "Données d'état invalides pour : %s"
+
+msgid "Missing required fields for state: %s"
+msgstr "Champs requis manquants pour l'état : %s"
+
+msgid "Invalid costs format for state: %s"
+msgstr "Format de coûts invalide pour l'état : %s"
+
+msgid "No data to backup"
+msgstr "Aucune donnée à sauvegarder"
+
+msgid "Failed to create backup"
+msgstr "Échec de la création de la sauvegarde"
+
+msgid "Backup not found"
+msgstr "Sauvegarde introuvable"
+
+msgid "Failed to restore backup"
+msgstr "Échec de la restauration de la sauvegarde"
+
+msgid "Import completed successfully!"
+msgstr "Importation terminée avec succès !"
+
+msgid "Backup created successfully"
+msgstr "Sauvegarde créée avec succès"
+
+msgid "Backup ID is required"
+msgstr "L'ID de sauvegarde est requis"
+
+msgid "Backup restored successfully"
+msgstr "Sauvegarde restaurée avec succès"
+
+msgid "Yaxii WC Importer"
+msgstr "Importateur Yaxii WC"
+
+msgid "WooCommerce Shipping Importer"
+msgstr "Importateur d'expédition WooCommerce"
+
+msgid "Need Yaxii Smart Form?"
+msgstr "Besoin de Yaxii Smart Form ?"
+
+msgid "Get the most powerful form plugin for WooCommerce"
+msgstr "Obtenez le plugin de formulaires le plus puissant pour WooCommerce"
+
+msgid "Learn More"
+msgstr "En savoir plus"
+
+msgid "Invalid or expired license. Please activate your Yaxii Smart Form license."
+msgstr "Licence invalide ou expirée. Veuillez activer votre licence Yaxii Smart Form."
+
+msgid "Yaxii Smart Form core plugin not properly installed."
+msgstr "Le plugin principal Yaxii Smart Form n'est pas correctement installé."
+
+msgid "Yaxii Smart Form license could not be verified. Please reactivate your license."
+msgstr "La licence Yaxii Smart Form n'a pas pu être vérifiée. Veuillez réactiver votre licence."
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license at:"
+msgstr "Une licence Yaxii Smart Form valide est requise pour utiliser cet importateur. Veuillez activer votre licence sur :"
+
+msgid "Get Yaxii Smart Form"
+msgstr "Obtenir Yaxii Smart Form"
+
+msgid "Yaxii WC Importer:"
+msgstr "Importateur Yaxii WC :"
+
+msgid "Your Yaxii Smart Form license could not be verified. Please reactivate your license."
+msgstr "Votre licence Yaxii Smart Form n'a pas pu être vérifiée. Veuillez réactiver votre licence."
+
+msgid "No data to import"
+msgstr "Aucune donnée à importer"
+
+msgid "Failed to import data. Please check WordPress debug log for details."
+msgstr "Échec de l'importation des données. Veuillez consulter le journal de débogage WordPress pour plus de détails."
+
+msgid "Import appeared to succeed but data verification failed. Please try again."
+msgstr "L'importation semble avoir réussi mais la vérification des données a échoué. Veuillez réessayer."
+
+msgid "Data must be an array"
+msgstr "Les données doivent être un tableau"
+
+msgid "Data array is empty"
+msgstr "Le tableau de données est vide"
+
+msgid "Missing \"enabled\" field for state: %s"
+msgstr "Champ \"enabled\" manquant pour l'état : %s"
+
+msgid "Missing \"costs\" field for state: %s"
+msgstr "Champ \"costs\" manquant pour l'état : %s"

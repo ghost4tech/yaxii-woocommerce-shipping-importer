@@ -1,0 +1,307 @@
+# Copyright (C) 2024 Yaxii WooCommerce Shipping Importer
+# This file is distributed under the same license as the Yaxii WooCommerce Shipping Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yaxii WooCommerce Shipping Importer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://yaxii.com/support\n"
+"POT-Creation-Date: 2024-10-11 00:00:00+00:00\n"
+"PO-Revision-Date: 2025-10-11 17:48+0100\n"
+"Last-Translator: Yaxii Team <support@yaxii.com>\n"
+"Language-Team: Arabic <support@yaxii.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "WooCommerce to Yaxii Importer"
+msgstr "أداة استيراد الشحن من ووكومرس إلى ياكسي"
+
+msgid "WC Importer"
+msgstr "استيراد WC"
+
+msgid "Migrate WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and free for Yaxii Smart Form license holders."
+msgstr "انقل مناطق وتكاليف الشحن من ووكومرس إلى مدير الشحن في ياكسي سمارت فورم. بسيط وسريع ومجاني لأصحاب رخصة ياكسي سمارت فورم."
+
+msgid "WordPress 5.8 or higher is required. You are running version %s."
+msgstr "مطلوب ووردبريس 5.8 أو أعلى. أنت تستخدم الإصدار %s."
+
+msgid "PHP 7.4 or higher is required. You are running version %s."
+msgstr "مطلوب PHP 7.4 أو أعلى. أنت تستخدم الإصدار %s."
+
+msgid "WooCommerce plugin is required. Please install and activate WooCommerce."
+msgstr "إضافة ووكومرس مطلوبة. يرجى تثبيت وتفعيل ووكومرس."
+
+msgid "WooCommerce 5.0 or higher is required. You are running version %s."
+msgstr "مطلوب ووكومرس 5.0 أو أعلى. أنت تستخدم الإصدار %s."
+
+msgid "Yaxii Smart Form plugin is required. Please install and activate Yaxii Smart Form."
+msgstr "إضافة ياكسي سمارت فورم مطلوبة. يرجى تثبيت وتفعيل ياكسي سمارت فورم."
+
+msgid "Yaxii Smart Form Shipping Manager is not available. Please update Yaxii Smart Form to the latest version."
+msgstr "مدير الشحن في ياكسي سمارت فورم غير متوفر. يرجى تحديث ياكسي سمارت فورم إلى أحدث إصدار."
+
+msgid "Yaxii Smart Form license validation function not found."
+msgstr "وظيفة التحقق من رخصة ياكسي سمارت فورم غير موجودة."
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license."
+msgstr "رخصة ياكسي سمارت فورم صالحة مطلوبة لاستخدام هذه الأداة. يرجى تفعيل رخصتك."
+
+msgid "Security check failed"
+msgstr "فشل التحقق الأمني"
+
+msgid "Insufficient permissions"
+msgstr "صلاحيات غير كافية"
+
+msgid "Migration Wizard"
+msgstr "معالج الاستيراد"
+
+msgid "Import your WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and safe."
+msgstr "استورد مناطق وتكاليف الشحن من ووكومرس إلى مدير الشحن في ياكسي سمارت فورم. بسيط وسريع وآمن."
+
+msgid "Scan"
+msgstr "فحص"
+
+msgid "Map Methods"
+msgstr "ربط الطرق"
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "Complete"
+msgstr "اكتمال"
+
+msgid "Step 1: Scan WooCommerce Data"
+msgstr "الخطوة 1: فحص بيانات ووكومرس"
+
+msgid "Click the button below to scan your WooCommerce shipping zones and methods."
+msgstr "انقر على الزر أدناه لفحص مناطق وطرق الشحن في ووكومرس."
+
+msgid "Scan WooCommerce Data"
+msgstr "فحص بيانات ووكومرس"
+
+msgid "Zones Found"
+msgstr "المناطق الموجودة"
+
+msgid "Shipping Methods"
+msgstr "طرق الشحن"
+
+msgid "States Covered"
+msgstr "الولايات المغطاة"
+
+msgid "Continue to Method Mapping"
+msgstr "المتابعة إلى ربط الطرق"
+
+msgid "Step 2: Map Shipping Methods"
+msgstr "الخطوة 2: ربط طرق الشحن"
+
+msgid "Map your WooCommerce shipping methods to Yaxii Smart Form methods."
+msgstr "اربط طرق الشحن في ووكومرس بطرق ياكسي سمارت فورم."
+
+msgid "Method Mapping"
+msgstr "ربط الطرق"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Continue to Import"
+msgstr "المتابعة إلى الاستيراد"
+
+msgid "Step 3: Import Settings"
+msgstr "الخطوة 3: إعدادات الاستيراد"
+
+msgid "Choose how to handle existing Yaxii shipping costs."
+msgstr "اختر كيفية التعامل مع تكاليف الشحن الموجودة في ياكسي."
+
+msgid "Conflict Resolution Strategy:"
+msgstr "استراتيجية حل التعارض:"
+
+msgid "Overwrite"
+msgstr "استبدال"
+
+msgid "Replace all existing prices with WooCommerce data"
+msgstr "استبدال جميع الأسعار الموجودة ببيانات ووكومرس"
+
+msgid "Skip Existing"
+msgstr "تخطي الموجود"
+
+msgid "Only import states that don't have prices yet"
+msgstr "استيراد الولايات التي لا تحتوي على أسعار فقط"
+
+msgid "Keep Lower Prices"
+msgstr "الاحتفاظ بالأسعار الأقل"
+
+msgid "Use the lower price between existing and WooCommerce"
+msgstr "استخدام السعر الأقل بين الموجود وووكومرس"
+
+msgid "Keep Higher Prices"
+msgstr "الاحتفاظ بالأسعار الأعلى"
+
+msgid "Use the higher price between existing and WooCommerce"
+msgstr "استخدام السعر الأعلى بين الموجود وووكومرس"
+
+msgid "Create Backup Before Import"
+msgstr "إنشاء نسخة احتياطية قبل الاستيراد"
+
+msgid "Recommended: Create a backup that you can restore if needed"
+msgstr "موصى به: إنشاء نسخة احتياطية يمكنك استعادتها عند الحاجة"
+
+msgid "Important:"
+msgstr "هام:"
+
+msgid "This will modify your Yaxii Smart Form shipping costs. A backup will be created automatically."
+msgstr "سيؤدي هذا إلى تعديل تكاليف الشحن في ياكسي سمارت فورم. سيتم إنشاء نسخة احتياطية تلقائياً."
+
+msgid "Start Import"
+msgstr "بدء الاستيراد"
+
+msgid "Import Completed Successfully!"
+msgstr "اكتمل الاستيراد بنجاح!"
+
+msgid "Go to Yaxii Shipping Manager"
+msgstr "الذهاب إلى مدير الشحن في ياكسي"
+
+msgid "Import Again"
+msgstr "استيراد مرة أخرى"
+
+msgid "Export to CSV"
+msgstr "تصدير إلى CSV"
+
+msgid "Processing..."
+msgstr "جارٍ المعالجة..."
+
+msgid "Backup Manager"
+msgstr "مدير النسخ الاحتياطية"
+
+msgid "Manage your Yaxii shipping data backups."
+msgstr "إدارة النسخ الاحتياطية لبيانات الشحن في ياكسي."
+
+msgid "Create Backup Now"
+msgstr "إنشاء نسخة احتياطية الآن"
+
+msgid "Refresh List"
+msgstr "تحديث القائمة"
+
+msgid "Click refresh to load backups list."
+msgstr "انقر على تحديث لتحميل قائمة النسخ الاحتياطية."
+
+msgid "Scanning WooCommerce data..."
+msgstr "جارٍ فحص بيانات ووكومرس..."
+
+msgid "Importing data..."
+msgstr "جارٍ استيراد البيانات..."
+
+msgid "Success!"
+msgstr "نجح!"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Are you sure you want to import? This will modify your Yaxii shipping costs."
+msgstr "هل أنت متأكد من الاستيراد؟ سيؤدي هذا إلى تعديل تكاليف الشحن في ياكسي."
+
+msgid "Are you sure you want to restore from backup?"
+msgstr "هل أنت متأكد من استعادة النسخة الاحتياطية؟"
+
+msgid "Home Delivery - التوصيل للمنزل"
+msgstr "التوصيل للمنزل"
+
+msgid "Office Delivery - التوصيل للمكتب"
+msgstr "التوصيل للمكتب"
+
+msgid "Invalid data format"
+msgstr "تنسيق بيانات غير صالح"
+
+msgid "Failed to import data"
+msgstr "فشل استيراد البيانات"
+
+msgid "Invalid state data for: %s"
+msgstr "بيانات ولاية غير صالحة لـ: %s"
+
+msgid "Missing required fields for state: %s"
+msgstr "حقول مطلوبة مفقودة للولاية: %s"
+
+msgid "Invalid costs format for state: %s"
+msgstr "تنسيق تكاليف غير صالح للولاية: %s"
+
+msgid "No data to backup"
+msgstr "لا توجد بيانات للنسخ الاحتياطي"
+
+msgid "Failed to create backup"
+msgstr "فشل إنشاء النسخة الاحتياطية"
+
+msgid "Backup not found"
+msgstr "لم يتم العثور على النسخة الاحتياطية"
+
+msgid "Failed to restore backup"
+msgstr "فشل استعادة النسخة الاحتياطية"
+
+msgid "Import completed successfully!"
+msgstr "اكتمل الاستيراد بنجاح!"
+
+msgid "Backup created successfully"
+msgstr "تم إنشاء النسخة الاحتياطية بنجاح"
+
+msgid "Backup ID is required"
+msgstr "معرف النسخة الاحتياطية مطلوب"
+
+msgid "Backup restored successfully"
+msgstr "تم استعادة النسخة الاحتياطية بنجاح"
+
+msgid "Yaxii WC Importer"
+msgstr "أداة استيراد ياكسي"
+
+msgid "WooCommerce Shipping Importer"
+msgstr "أداة استيراد الشحن من ووكومرس"
+
+msgid "Need Yaxii Smart Form?"
+msgstr "هل تحتاج ياكسي سمارت فورم؟"
+
+msgid "Get the most powerful form plugin for WooCommerce"
+msgstr "احصل على أقوى إضافة نماذج لووكومرس"
+
+msgid "Learn More"
+msgstr "معرفة المزيد"
+
+msgid "Invalid or expired license. Please activate your Yaxii Smart Form license."
+msgstr "رخصة غير صالحة أو منتهية الصلاحية. يرجى تفعيل رخصة ياكسي سمارت فورم."
+
+msgid "Yaxii Smart Form core plugin not properly installed."
+msgstr "إضافة ياكسي سمارت فورم الأساسية غير مثبتة بشكل صحيح."
+
+msgid "Yaxii Smart Form license could not be verified. Please reactivate your license."
+msgstr "لا يمكن التحقق من رخصة ياكسي سمارت فورم. يرجى إعادة تفعيل رخصتك."
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license at:"
+msgstr "رخصة ياكسي سمارت فورم صالحة مطلوبة لاستخدام هذه الأداة. يرجى تفعيل رخصتك على:"
+
+msgid "Get Yaxii Smart Form"
+msgstr "احصل على ياكسي سمارت فورم"
+
+msgid "Yaxii WC Importer:"
+msgstr "أداة استيراد ياكسي:"
+
+msgid "Your Yaxii Smart Form license could not be verified. Please reactivate your license."
+msgstr "لا يمكن التحقق من رخصة ياكسي سمارت فورم الخاصة بك. يرجى إعادة تفعيل رخصتك."
+
+msgid "No data to import"
+msgstr "لا توجد بيانات للاستيراد"
+
+msgid "Failed to import data. Please check WordPress debug log for details."
+msgstr "فشل استيراد البيانات. يرجى التحقق من سجل تصحيح الأخطاء في ووردبريس للحصول على التفاصيل."
+
+msgid "Import appeared to succeed but data verification failed. Please try again."
+msgstr "يبدو أن الاستيراد نجح ولكن التحقق من البيانات فشل. يرجى المحاولة مرة أخرى."
+
+msgid "Data must be an array"
+msgstr "يجب أن تكون البيانات عبارة عن مصفوفة"
+
+msgid "Data array is empty"
+msgstr "مصفوفة البيانات فارغة"
+
+msgid "Missing \"enabled\" field for state: %s"
+msgstr "حقل \"enabled\" مفقود للولاية: %s"
+
+msgid "Missing \"costs\" field for state: %s"
+msgstr "حقل \"costs\" مفقود للولاية: %s"

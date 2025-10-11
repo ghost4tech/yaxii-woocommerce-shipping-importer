@@ -1,0 +1,52 @@
+# WordPress
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+error_log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Node modules (if you add build process later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Composer
+vendor/
+composer.lock
+
+# Build files
+*.zip
+*.tar.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Language files (keep .pot and .po, ignore compiled .mo temporarily)
+# Uncomment the line below if you want to include compiled .mo files
+# *.mo
+
+# Backups
+*.bak
+*.backup
+

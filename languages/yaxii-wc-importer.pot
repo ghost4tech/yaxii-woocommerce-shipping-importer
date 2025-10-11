@@ -1,0 +1,287 @@
+# Copyright (C) 2024 Yaxii WooCommerce Shipping Importer
+# This file is distributed under the same license as the Yaxii WooCommerce Shipping Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yaxii WooCommerce Shipping Importer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://yaxii.com/support\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+msgid "Yaxii WC Importer"
+msgstr ""
+
+msgid "WooCommerce Shipping Importer"
+msgstr ""
+
+msgid "Migrate WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and free for Yaxii Smart Form license holders."
+msgstr ""
+
+msgid "WordPress 5.8 or higher is required. You are running version %s."
+msgstr ""
+
+msgid "PHP 7.4 or higher is required. You are running version %s."
+msgstr ""
+
+msgid "WooCommerce plugin is required. Please install and activate WooCommerce."
+msgstr ""
+
+msgid "WooCommerce 5.0 or higher is required. You are running version %s."
+msgstr ""
+
+msgid "Yaxii Smart Form plugin is required. Please install and activate Yaxii Smart Form."
+msgstr ""
+
+msgid "Yaxii Smart Form Shipping Manager is not available. Please update Yaxii Smart Form to the latest version."
+msgstr ""
+
+msgid "Yaxii Smart Form license validation function not found."
+msgstr ""
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license."
+msgstr ""
+
+msgid "Security check failed"
+msgstr ""
+
+msgid "Insufficient permissions"
+msgstr ""
+
+msgid "Migration Wizard"
+msgstr ""
+
+msgid "Import your WooCommerce shipping zones and costs to Yaxii Smart Form Shipping Manager. Simple, fast, and safe."
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Map Methods"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "Step 1: Scan WooCommerce Data"
+msgstr ""
+
+msgid "Click the button below to scan your WooCommerce shipping zones and methods."
+msgstr ""
+
+msgid "Scan WooCommerce Data"
+msgstr ""
+
+msgid "Zones Found"
+msgstr ""
+
+msgid "Shipping Methods"
+msgstr ""
+
+msgid "States Covered"
+msgstr ""
+
+msgid "Continue to Method Mapping"
+msgstr ""
+
+msgid "Step 2: Map Shipping Methods"
+msgstr ""
+
+msgid "Map your WooCommerce shipping methods to Yaxii Smart Form methods."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Continue to Import"
+msgstr ""
+
+msgid "Step 3: Import Settings"
+msgstr ""
+
+msgid "Choose how to handle existing Yaxii shipping costs."
+msgstr ""
+
+msgid "Conflict Resolution Strategy:"
+msgstr ""
+
+msgid "Overwrite"
+msgstr ""
+
+msgid "Replace all existing prices with WooCommerce data"
+msgstr ""
+
+msgid "Skip Existing"
+msgstr ""
+
+msgid "Only import states that don't have prices yet"
+msgstr ""
+
+msgid "Keep Lower Prices"
+msgstr ""
+
+msgid "Use the lower price between existing and WooCommerce"
+msgstr ""
+
+msgid "Keep Higher Prices"
+msgstr ""
+
+msgid "Use the higher price between existing and WooCommerce"
+msgstr ""
+
+msgid "Create Backup Before Import"
+msgstr ""
+
+msgid "Recommended: Create a backup that you can restore if needed"
+msgstr ""
+
+msgid "Important:"
+msgstr ""
+
+msgid "This will modify your Yaxii Smart Form shipping costs. A backup will be created automatically."
+msgstr ""
+
+msgid "Start Import"
+msgstr ""
+
+msgid "Import Completed Successfully!"
+msgstr ""
+
+msgid "Go to Yaxii Shipping Manager"
+msgstr ""
+
+msgid "Import Again"
+msgstr ""
+
+msgid "Export to CSV"
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
+msgid "Backup Manager"
+msgstr ""
+
+msgid "Manage your Yaxii shipping data backups."
+msgstr ""
+
+msgid "Create Backup Now"
+msgstr ""
+
+msgid "Refresh List"
+msgstr ""
+
+msgid "Click refresh to load backups list."
+msgstr ""
+
+msgid "Scanning WooCommerce data..."
+msgstr ""
+
+msgid "Importing data..."
+msgstr ""
+
+msgid "Success!"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Are you sure you want to import? This will modify your Yaxii shipping costs."
+msgstr ""
+
+msgid "Are you sure you want to restore from backup?"
+msgstr ""
+
+msgid "Home Delivery - التوصيل للمنزل"
+msgstr ""
+
+msgid "Office Delivery - التوصيل للمكتب"
+msgstr ""
+
+msgid "Invalid data format"
+msgstr ""
+
+msgid "Failed to import data"
+msgstr ""
+
+msgid "Invalid state data for: %s"
+msgstr ""
+
+msgid "Missing required fields for state: %s"
+msgstr ""
+
+msgid "Invalid costs format for state: %s"
+msgstr ""
+
+msgid "No data to backup"
+msgstr ""
+
+msgid "Failed to create backup"
+msgstr ""
+
+msgid "Backup not found"
+msgstr ""
+
+msgid "Failed to restore backup"
+msgstr ""
+
+msgid "Import completed successfully!"
+msgstr ""
+
+msgid "Backup created successfully"
+msgstr ""
+
+msgid "Backup ID is required"
+msgstr ""
+
+msgid "Backup restored successfully"
+msgstr ""
+
+msgid "Need Yaxii Smart Form?"
+msgstr ""
+
+msgid "Get the most powerful form plugin for WooCommerce"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Invalid or expired license. Please activate your Yaxii Smart Form license."
+msgstr ""
+
+msgid "Yaxii Smart Form core plugin not properly installed."
+msgstr ""
+
+msgid "Yaxii Smart Form license could not be verified. Please reactivate your license."
+msgstr ""
+
+msgid "A valid Yaxii Smart Form license is required to use this importer. Please activate your license at:"
+msgstr ""
+
+msgid "No data to import"
+msgstr ""
+
+msgid "Failed to import data. Please check WordPress debug log for details."
+msgstr ""
+
+msgid "Import appeared to succeed but data verification failed. Please try again."
+msgstr ""
+
+msgid "Data must be an array"
+msgstr ""
+
+msgid "Data array is empty"
+msgstr ""
+
+msgid "Missing \"enabled\" field for state: %s"
+msgstr ""
+
+msgid "Missing \"costs\" field for state: %s"
+msgstr ""
+
