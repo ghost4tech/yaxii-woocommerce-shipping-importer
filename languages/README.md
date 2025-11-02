@@ -73,3 +73,7 @@ Common WordPress locale codes:
 - The `.mo` files are binary and used by WordPress
 - Always compile `.po` to `.mo` after making changes
 - The plugin will automatically load the correct translation based on WordPress language settings
+
+
+
+
